@@ -1,0 +1,16 @@
+/** {
+	border: 1px solid black;
+}*/
+
+.orangebox {
+	background: rgb(247,106,5);
+	color: white;
+}
+
+.box {
+	margin-bottom: 20px;
+}
+
+.company-name {
+	font-size: 10px;
+}
